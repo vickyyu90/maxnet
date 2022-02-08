@@ -47,7 +47,6 @@ def run_train(args=None):
     
     model.save(f'{log.checkpoint_dir}/model_init')
 
-    leaf_labels = dict()
     best_train_acc = 0.
     best_test_acc = 0.
 
@@ -58,7 +57,7 @@ def run_train(args=None):
             log.log_learning_rates(optimizer)
             
             # Train
-            train_info = train_epoch(model, trainloader, optimizer, epoch, args.disable_derivative_free_leaf_optim, device, log, log_prefix)
+            train_info = train_epoch(model, trainloader, optimizer, epoch, device, log, log_prefix)
             save_model(model, optimizer, scheduler, epoch, log, args)
 
             # Evaluate

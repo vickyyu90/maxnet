@@ -12,7 +12,7 @@ import torch.optim
 """
 def get_args() -> argparse.Namespace:
 
-    parser = argparse.ArgumentParser('Train a ProtoTree')
+    parser = argparse.ArgumentParser('Train a model')
     parser.add_argument(
         '--caps_dir',
         help='Data using CAPS structure.',
@@ -145,11 +145,11 @@ def get_args() -> argparse.Namespace:
     parser.add_argument('--epochs',
                         type=int,
                         default=100,
-                        help='The number of epochs the tree should be trained')
+                        help='The number of epochs should be trained')
     parser.add_argument('--optimizer',
                         type=str,
                         default='AdamW',
-                        help='The optimizer that should be used when training the tree')
+                        help='The optimizer that should be used when training')
     parser.add_argument('--lr',
                         type=float,
                         default=0.001, 
@@ -165,7 +165,7 @@ def get_args() -> argparse.Namespace:
     parser.add_argument('--momentum',
                         type=float,
                         default=0.9,
-                        help='The optimizer momentum parameter (only applicable to SGD)')
+                        help='The optimizer momentum parameter')
     parser.add_argument('--weight_decay',
                         type=float,
                         default=0.0,

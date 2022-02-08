@@ -185,6 +185,6 @@ class MAXNet(nn.Module):
         with open(directory_path + '/model_state.pth', 'wb') as f:
             torch.save(self.state_dict(), f)
         # Save the out_map of the model to the target directory
-        with open(directory_path + '/tree.pkl', 'wb') as f:
+        with open(directory_path + '/model.pkl', 'wb') as f:
             pickle.dump(self, f, protocol=pickle.HIGHEST_PROTOCOL)
 

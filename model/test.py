@@ -23,11 +23,7 @@ def eval(model: MAXNet,
         ) -> dict:
     model = model.to(device)
 
-    # Keep an info dict about the procedure
     info = dict()
-    if sampling_strategy != 'distributed':
-        info['out_leaf_ix'] = []
-    # Build a confusion matrix
     cm = np.zeros((model._num_classes, model._num_classes), dtype=int)
     model.eval()
 
@@ -56,16 +52,12 @@ def eval(model: MAXNet,
             f'Batch [{i + 1}/{len(test_iter)}], Acc: {acc:.3f}'
         )
 
-        # keep list of leaf indices where test sample ends up when deterministic routing is used.
-        if sampling_strategy != 'distributed':
-            info['out_leaf_ix'] += test_info['out_leaf_ix']
         del out
         del ys_pred
         del test_info
 
-    info['confusion_matrix'] = cm
     info['test_accuracy'] = acc_from_cm(cm)
-    log.log_message("\nEpoch %s - Test accuracy with %s: "%(epoch, sampling_strategy)+str(info['test_accuracy']))
+    log.log_message("\nEpoch %s - Test accuracy: "%(epoch)+str(info['test_accuracy']))
     return info
 
 def acc_from_cm(cm: np.ndarray) -> float:
