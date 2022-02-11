@@ -55,7 +55,7 @@ if __name__ == '__main__':
     deletion = CausalMetric(model, 'del', 16900, substrate_fn=torch.zeros_like)
 
     caps_dir = '/path/to/CAPS'
-    image_path = find_image_path(caps_dir, 'sub-136S0300', 'ses-M01', 't1-linear')
+    image_path = find_image_path(caps_dir, '136S0300', 'ses-M01', 't1-linear')
     image_nii = nib.load(image_path)
     image = image_nii.get_data()
     # Function that opens image from disk, normalizes it and converts to tensor
