@@ -48,8 +48,8 @@ if __name__ == '__main__':
     model.conv3.register_backward_hook(model.save_grad)
     model.conv4.register_backward_hook(model.save_grad)
     model.conv5.register_backward_hook(model.save_grad)
-    #model.load_state_dict(torch.load('model_state.pth', map_location=torch.device('cpu')))
-    #model = model.eval()
+    model.load_state_dict(torch.load('model_state.pth', map_location=torch.device('cpu')))
+    model = model.eval()
 
     insertion = CausalMetric(model, 'ins', 16900, substrate_fn=torch.zeros_like)
     deletion = CausalMetric(model, 'del', 16900, substrate_fn=torch.zeros_like)

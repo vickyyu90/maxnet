@@ -38,7 +38,8 @@ def run_train(args=None):
     model = MAXNet(num_classes=2,
                     args = args)
     model = model.to(device=device)
-    model.load_state_dict(torch.load('model_state.pth', map_location=torch.device('cpu')))
+    if args.resume:
+        model.load_state_dict(torch.load(args.resume, map_location=torch.device('cpu')))
 
     # get optimizer
     optimizer, params_to_freeze, params_to_train = get_optimizer(model, args)

@@ -195,8 +195,9 @@ def get_args() -> argparse.Namespace:
     parser.add_argument('--gamma',
                         type=float,
                         default=0.5)
-    parser.add_argument('--state_dict_dir_net',
+    parser.add_argument('--resume',
                         type=str,
+                        help='resume from checkpoint',
                         default='')
     parser.add_argument('--intermediate_layers', type=str, default='conv3,conv4,conv5',
                         help='Intermediate layers numbers in features of the model, use comma to split')
