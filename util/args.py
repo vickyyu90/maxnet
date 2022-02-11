@@ -199,6 +199,13 @@ def get_args() -> argparse.Namespace:
                         type=str,
                         help='resume from checkpoint',
                         default='')
+    parser.add_argument('--eval_sample',
+                        type=str,
+                        help='evaluate one sample',
+                        default='')
+    parser.add_argument('--sample_session',
+                        type=str,
+                        default='')
     parser.add_argument('--intermediate_layers', type=str, default='conv3,conv4,conv5',
                         help='Intermediate layers numbers in features of the model, use comma to split')
 

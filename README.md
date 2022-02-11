@@ -30,6 +30,15 @@ python -m torch.distributed.launch --nproc <num-of-gpus-to-use> --master_port 12
 --caps_dir <caps-path> --tsv_path <tsv-path> --resume <checkpoint-path>
 ```
 
+## Evaluation
+
+To reproduce the results in Figs 6 - 9, run:
+```bash
+python -m torch.distributed.launch --nproc <num-of-gpus-to-use> --master_port 12345 main_evaluate.py \
+--resume <checkpoint-path> --eval_sample '136S0300' --sample_session 'ses-M01'
+```
+
+
 ## Requirements of Computer Hardware 
 
 GPU>=16GB memory
