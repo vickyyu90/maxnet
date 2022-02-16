@@ -76,7 +76,7 @@ def train_epoch(model: MAXNet,
         total_avg_separation_cost += avg_sep_cost.item()
 
         l1 = model.classifier.weight.norm(p=1)
-        loss = cross_entropy + 0.8 * cluster_cost - 0.08 * separation_cost + 1e-4 * l1
+        loss = cross_entropy + 0.6 * cluster_cost - 0.06 * separation_cost + 1e-4 * l1
 
         loss.backward()
         # Update model parameters
