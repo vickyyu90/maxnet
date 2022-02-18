@@ -57,7 +57,7 @@ This repository is released under the [Apache 2.0 license].
 If you find this repository useful, please consider citation:
 ```
 @inproceedings{yu2022explainable,
-  title={A novel explainable neural network for Alzheimer\'s disease diagnosis},
+  title={A novel explainable neural network for Alzheimer's disease diagnosis},
   author={Yu, Lu and Xiang, Wei and Fang, Juan and Chen, Yi-Ping Phoebe and Zhu, Ruifeng},
   year={2022}
 }
