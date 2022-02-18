@@ -4,6 +4,9 @@ from util.data import get_dataloaders
 from evaluation import CausalMetric, auc
 import argparse
 import torch
+from torch import nn
+from tqdm import tqdm
+import numpy as np
 import torchvision.transforms as transforms
 from PIL import Image
 from shutil import copy
@@ -105,6 +108,23 @@ if __name__ == '__main__':
     activation_map = cam(img.to(device), device, intermediate_layers, 0)
     ####################### HAM ##########################
 
-
     h = deletion.single_run(img, activation_map, verbose=1, device=device, save_to='del')
     h = insertion.single_run(img, activation_map, verbose=1)
+
+    # get dataloaders
+    trainloader, _, _ = get_dataloaders(args)
+    train_iter = tqdm(enumerate(trainloader),
+                    total=len(trainloader),
+                    ncols=0)
+
+    database = []
+    for i, (data) in train_iter:
+        xs, ys = data['image'].to(device), data['label'].to(device)
+        database.append(cam(xs, device, intermediate_layers, ys))
+    database = torch.cat(database)
+
+    database = nn.functional.normalize(database, dim=1, p=2)
+    activation_map = nn.functional.normalize(activation_map, dim=1, p=2)
+
+    similarity = torch.mm(activation_map, database.T)
+    distances, indices = similarity.topk(3, largest=True, sorted=True)
