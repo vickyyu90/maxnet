@@ -4,10 +4,9 @@ from methods.basecam import *
 
 
 class ScoreCAM(BaseCAM):
-
-    """
+    """Implements a class activation map extractor as described in `"Score-CAM: Score-Weighted
+    Visual Explanations for Convolutional Neural Networks" <https://arxiv.org/pdf/1910.01279.pdf>
         ScoreCAM, inherit from BaseCAM
-
     """
 
     def __init__(self, model_dict):
