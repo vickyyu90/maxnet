@@ -102,6 +102,12 @@ if __name__ == '__main__':
     # activation_map = F.interpolate(activation_map, size=(169, 208, 179), mode='trilinear', align_corners=False)
     ####################### Grad CAMpp ##########################
 
+    # implementation of CAMERAS with PyTorch is released at https://github.com/VisMIL/CAMERAS.
+    ####################### CAMERAS ##########################
+    # cameras = CAMERAS(model, targetLayerName="conv5")
+    # activation_map = cameras.run(image, classOfInterest=i).cpu()
+    ####################### CAMERAS ##########################
+
     # ####################### HAM ##########################
     intermediate_layers = args.intermediate_layers.split(',')
     cam = HAM(model, intermediate_layers)
