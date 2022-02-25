@@ -14,9 +14,25 @@ PyTorch implementation for MAXNet, HAM and PCR.
 - clinicadl (convert the MRIs in nii.gz format into tensor versions (using pytorch format)): https://github.com/aramis-lab/AD-ML.
 
 ## Data preparation
-This is used to save MRI in nii.gz format into pytorch .pt format.
-`clinicadl extract CAPS_DIRECTORY t1-linear roi`
 
+- Download MRI data from trom the Alzheimer's Disease Neuroimaging Initiative (ADNI).
+  The file structure should look like:
+  ```bash
+  $ tree data
+  ADNI
+  ├── CAPS_DIRECTORY
+  └── ├── subjects
+      └── ├── subject-xxxxxxx
+          │   ├── ses-xxx
+          │   │   ├── t1-linear
+          │   │   │   ├── sub-xxxxxxx.nii
+          │   └── ...
+          └── ...
+
+- Use clinicadl to extract and save MRI in nii.gz format into pytorch .pt format, which will be used later for training.
+```bash
+clinicadl extract CAPS_DIRECTORY t1-linear roi
+```
 ## Quick Start 
 
 To train a `MAXNet` on ADNI, run:
