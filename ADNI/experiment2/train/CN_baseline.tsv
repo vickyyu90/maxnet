@@ -1,0 +1,881 @@
+participant_id	session_id	Description	diagnosis
+sub-007S0068	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0040	3	MPR; GradWarp	CN
+sub-005S0602	2	MPR; GradWarp	CN
+sub-022S0130	1	MPR; GradWarp	CN
+sub-022S0130	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0711	3	MPR; GradWarp; B1 Correction	CN
+sub-011S0005	1	MPR; GradWarp; B1 Correction	CN
+sub-136S0196	3	MPR; GradWarp	CN
+sub-011S0022	3	MPR; GradWarp; B1 Correction	CN
+sub-099S0352	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0684	1	MPR; GradWarp	CN
+sub-011S0005	4	MPR; GradWarp; B1 Correction	CN
+sub-057S0934	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-024S0985	1	MPR; GradWarp	CN
+sub-035S0156	1	MPR; GradWarp; B1 Correction	CN
+sub-002S1280	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0526	3	MPR; GradWarp	CN
+sub-011S0008	1	MPR; GradWarp	CN
+sub-082S0363	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0405	2	MPR; GradWarp; B1 Correction	CN
+sub-020S1288	2	MPR; GradWarp; B1 Correction	CN
+sub-130S0232	3	MPR; GradWarp	CN
+sub-133S0433	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-041S0898	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0081	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0260	4	MPR; GradWarp; B1 Correction	CN
+sub-057S0934	3	MPR; GradWarp	CN
+sub-136S0186	1	MPR; GradWarp; B1 Correction	CN
+sub-116S1249	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-005S0553	1	MPR; GradWarp; B1 Correction	CN
+sub-116S1232	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0056	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-062S0578	1	MPR; GradWarp; B1 Correction	CN
+sub-057S0934	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S1035	2	MPR; GradWarp; N3	CN
+sub-011S0008	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-021S0159	3	MPR; GradWarp	CN
+sub-002S1261	1	MPR; GradWarp	CN
+sub-002S1261	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1251	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-136S0186	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0040	4	MPR; GradWarp; B1 Correction	CN
+sub-082S0640	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-002S0559	1	MPR; GradWarp	CN
+sub-002S0413	4	MPR; GradWarp	CN
+sub-005S0553	2	MPR; GradWarp	CN
+sub-023S1190	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S1301	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-029S0845	3	MPR; GradWarp; B1 Correction	CN
+sub-033S0516	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0516	3	MPR; GradWarp	CN
+sub-126S0605	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0685	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S0363	1	MPR; GradWarp; B1 Correction	CN
+sub-013S0502	1	MPR; GradWarp	CN
+sub-126S0405	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S1256	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0433	2	MPR; GradWarp	CN
+sub-127S0259	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	2	MPR; GradWarp	CN
+sub-027S0118	1	MPR; GradWarp	CN
+sub-003S0907	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0489	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S1086	6	MPR; GradWarp; N3	CN
+sub-098S0171	8	MPR; GradWarp; B1 Correction; N3	CN
+sub-006S0681	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-006S0731	3	MPR; GradWarp	CN
+sub-062S0768	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S1190	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0019	4	MPR; GradWarp	CN
+sub-099S0040	1	MPR; GradWarp	CN
+sub-033S1098	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0040	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	3	MPR; GradWarp	CN
+sub-007S0070	3	MPR; GradWarp	CN
+sub-052S1250	1	MPR; GradWarp; B1 Correction	CN
+sub-006S0498	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	3	MPR; GradWarp; N3; Scaled	CN
+sub-099S0534	3	MPR; GradWarp	CN
+sub-126S0605	1	MPR; GradWarp	CN
+sub-099S0040	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-062S1099	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0559	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-037S0303	4	MPR; GradWarp	CN
+sub-014S0558	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S0657	3	MPR; GradWarp	CN
+sub-011S0022	3	MPR; GradWarp	CN
+sub-011S0005	3	MPR; GradWarp; B1 Correction	CN
+sub-067S0019	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0019	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0295	3	MPR; GradWarp	CN
+sub-073S0386	1	MPR; GradWarp; B1 Correction	CN
+sub-036S0576	1	MPR; GradWarp	CN
+sub-006S0498	1	MPR; GradWarp	CN
+sub-023S0058	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S0123	1	MPR; GradWarp	CN
+sub-022S0096	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0923	1	MPR; GradWarp	CN
+sub-011S0022	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0433	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S1288	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S0382	2	MPR; GradWarp; B1 Correction	CN
+sub-011S0005	4	MPR; GradWarp	CN
+sub-023S1190	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-027S0403	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0923	1	MPR; GradWarp; B1 Correction	CN
+sub-141S1094	1	MPR; GradWarp; B1 Correction	CN
+sub-007S0068	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0433	2	MPR; GradWarp; N3; Scaled	CN
+sub-014S0519	1	MPR; GradWarp	CN
+sub-021S0337	1	MPR; GradWarp; N3	CN
+sub-020S0097	4	MPR; GradWarp; B1 Correction	CN
+sub-073S0089	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0021	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0405	3	MPR; GradWarp	CN
+sub-067S0056	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0066	3	MPR; GradWarp	CN
+sub-027S0118	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0061	2	MPR; GradWarp	CN
+sub-029S0845	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0022	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-006S0498	1	MPR; GradWarp; B1 Correction	CN
+sub-099S0534	1	MPR; GradWarp; B1 Correction	CN
+sub-126S0605	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-098S0172	4	MPR; GradWarp	CN
+sub-127S0684	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	2	MPR; GradWarp; B1 Correction	CN
+sub-002S0559	3	MPR; GradWarp; B1 Correction	CN
+sub-011S0016	3	MPR; GradWarp	CN
+sub-011S0016	4	MPR; GradWarp	CN
+sub-006S0498	3	MPR; GradWarp	CN
+sub-011S0008	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0014	4	MPR; GradWarp; B1 Correction	CN
+sub-941S1195	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0301	1	MPR; GradWarp; N3	CN
+sub-133S0525	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0184	1	MPR; GradWarp	CN
+sub-024S1063	1	MPR; GradWarp; B1 Correction	CN
+sub-116S0382	1	MPR; GradWarp	CN
+sub-027S0120	3	MPR; GradWarp	CN
+sub-099S0090	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S1222	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0040	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S1035	2	MPR; GradWarp	CN
+sub-099S0533	3	MPR; GradWarp; B1 Correction	CN
+sub-013S0575	1	MPR; GradWarp; B1 Correction	CN
+sub-016S0538	3	MPR; GradWarp	CN
+sub-020S1288	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-021S0984	1	MPR; GradWarp; N3	CN
+sub-005S0223	1	MPR; GradWarp	CN
+sub-027S0403	3	MPR; GradWarp; B1 Correction	CN
+sub-052S1250	2	MPR; GradWarp	CN
+sub-033S0741	1	MPR; GradWarp; B1 Correction	CN
+sub-131S0319	3	MPR; GradWarp; B1 Correction	CN
+sub-062S1099	1	MPR; GradWarp	CN
+sub-011S0005	1	MPR; GradWarp	CN
+sub-007S1206	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-014S0519	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0019	3	MPR; GradWarp; B1 Correction	CN
+sub-941S1195	1	MPR; GradWarp	CN
+sub-023S0058	3	MPR; GradWarp	CN
+sub-005S0223	1	MPR; GradWarp; B1 Correction	CN
+sub-023S1190	2	MPR; GradWarp; B1 Correction	CN
+sub-027S0074	1	MPR; GradWarp; B1 Correction	CN
+sub-126S0680	1	MPR; GradWarp; B1 Correction	CN
+sub-037S0303	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-109S1014	1	MPR; GradWarp	CN
+sub-116S0382	2	MPR; GradWarp	CN
+sub-023S0058	3	MPR; GradWarp; B1 Correction	CN
+sub-099S0090	3	MPR; GradWarp; B1 Correction	CN
+sub-116S1232	2	MPR; GradWarp	CN
+sub-003S0981	1	MPR; GradWarp; B1 Correction	CN
+sub-005S0602	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S1288	3	MPR; GradWarp; B1 Correction	CN
+sub-099S0533	1	MPR; GradWarp	CN
+sub-067S0177	3	MPR; GradWarp	CN
+sub-126S0405	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S1288	1	MPR; GradWarp	CN
+sub-099S0534	1	MPR; GradWarp	CN
+sub-013S1276	1	MPR; GradWarp	CN
+sub-005S0553	1	MPR; GradWarp	CN
+sub-027S0403	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0920	1	MPR; GradWarp; B1 Correction	CN
+sub-035S0048	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	4	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-020S0883	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0031	3	MPR; GradWarp; B1 Correction	CN
+sub-073S0089	1	MPR; GradWarp	CN
+sub-067S0056	3	MPR; GradWarp	CN
+sub-023S0058	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0074	1	MPR; GradWarp	CN
+sub-941S1195	1	MPR; GradWarp; B1 Correction	CN
+sub-033S0741	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0692	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0493	3	MPR; GradWarp	CN
+sub-137S0972	1	MPR; GradWarp; N3	CN
+sub-023S1306	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-141S0767	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S0883	1	MPR; GradWarp	CN
+sub-035S0048	1	MPR; GradWarp; B1 Correction	CN
+sub-099S0534	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0059	4	MPR; GradWarp	CN
+sub-067S0056	3	MPR; GradWarp; B1 Correction	CN
+sub-020S0097	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S0640	2	MPR; GradWarp; B1 Correction	CN
+sub-067S0019	4	MPR; GradWarp; B1 Correction	CN
+sub-067S0257	3	MPR; GradWarp	CN
+sub-098S0171	8	MPR; GradWarp	CN
+sub-941S1194	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S0575	4	MPR; GradWarp; B1 Correction	CN
+sub-013S0575	4	MPR; GradWarp	CN
+sub-011S0021	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S0575	1	MPR; GradWarp	CN
+sub-062S0578	3	MPR; GradWarp	CN
+sub-126S0405	3	MPR; GradWarp; B1 Correction	CN
+sub-941S1197	3	MPR; GradWarp	CN
+sub-009S0751	4	MPR; GradWarp	CN
+sub-023S0061	3	MPR; GradWarp	CN
+sub-041S0125	3	MPR; GradWarp	CN
+sub-133S0525	3	MPR; GradWarp; N3	CN
+sub-116S0360	1	MPR; GradWarp	CN
+sub-003S0931	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-123S0072	3	MPR; ; N3	CN
+sub-133S0525	3	MPR; GradWarp	CN
+sub-035S0555	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0061	2	MPR; GradWarp; B1 Correction	CN
+sub-033S1086	1	MPR; GradWarp	CN
+sub-116S1232	1	MPR; GradWarp; N3	CN
+sub-137S0459	3	MPR; GradWarp; N3	CN
+sub-006S0681	3	MPR; GradWarp	CN
+sub-023S1190	1	MPR; GradWarp	CN
+sub-020S0097	4	MPR; GradWarp	CN
+sub-023S0031	2	MPR; GradWarp; B1 Correction	CN
+sub-007S0070	1	MPR; GradWarp	CN
+sub-941S1202	1	MPR; GradWarp	CN
+sub-033S1016	2	MPR; GradWarp	CN
+sub-022S0130	8	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-126S0605	2	MPR; GradWarp	CN
+sub-116S1249	1	MPR; GradWarp; N3	CN
+sub-099S0090	1	MPR; GradWarp; B1 Correction	CN
+sub-062S0578	1	MPR; GradWarp	CN
+sub-127S0259	1	MPR; GradWarp	CN
+sub-010S0419	1	MPR; ; N3	CN
+sub-126S0405	3	MPR; GradWarp; B1 Correction	CN
+sub-016S0538	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0403	2	MPR; GradWarp	CN
+sub-027S0120	4	MPR; GradWarp; B1 Correction	CN
+sub-011S0023	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0488	2	MPR; GradWarp; N3	CN
+sub-002S0685	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0433	3	MPR; GradWarp	CN
+sub-082S0761	1	MPR; GradWarp; B1 Correction	CN
+sub-131S0319	1	MPR; GradWarp	CN
+sub-029S0824	3	MPR; GradWarp	CN
+sub-033S0734	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0019	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-005S0553	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S1016	1	MPR; GradWarp	CN
+sub-033S0920	2	MPR; GradWarp	CN
+sub-013S0575	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0433	1	MPR; GradWarp	CN
+sub-067S0019	1	MPR; GradWarp; B1 Correction	CN
+sub-013S1276	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S0097	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0074	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0413	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0622	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-073S0312	1	MPR; GradWarp; B1 Correction	CN
+sub-130S0232	3	MPR; GradWarp; B1 Correction	CN
+sub-941S1203	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	1	MPR; GradWarp; B1 Correction	CN
+sub-062S0578	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-114S0166	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0074	4	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	3	MPR; GradWarp; B1 Correction	CN
+sub-067S0257	3	MPR; GradWarp; B1 Correction	CN
+sub-005S0602	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0120	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0019	1	MPR; GradWarp	CN
+sub-136S0196	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0260	2	MPR; GradWarp; B1 Correction	CN
+sub-067S0024	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0014	1	MPR; GradWarp; B1 Correction	CN
+sub-067S0019	3	MPR; GradWarp	CN
+sub-127S0260	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0066	1	MPR; GradWarp	CN
+sub-033S0734	1	MPR; GradWarp; B1 Correction	CN
+sub-116S0648	3	MPR; GradWarp	CN
+sub-123S0113	1	MPR; ; N3	CN
+sub-036S0813	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0130	8	MPR; GradWarp	CN
+sub-136S0196	3	MPR; GradWarp; B1 Correction	CN
+sub-062S1099	1	MPR; GradWarp; B1 Correction	CN
+sub-052S1251	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-073S0312	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0090	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1250	1	MPR; GradWarp	CN
+sub-003S0931	1	MPR; GradWarp; B1 Correction	CN
+sub-020S0097	1	MPR; GradWarp	CN
+sub-133S0433	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0059	1	MPR; GradWarp; B1 Correction	CN
+sub-941S1202	1	MPR; GradWarp; B1 Correction	CN
+sub-126S0405	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0686	1	MPR; GradWarp	CN
+sub-116S1232	1	MPR; GradWarp	CN
+sub-057S0643	1	MPR; GradWarp; B1 Correction	CN
+sub-052S1251	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-098S0171	8	MPR; GradWarp; B1 Correction	CN
+sub-067S0056	4	MPR; GradWarp	CN
+sub-131S1301	1	MPR; GradWarp; B1 Correction	CN
+sub-114S0601	1	MPR; GradWarp; B1 Correction	CN
+sub-041S0898	1	MPR; GradWarp	CN
+sub-082S0640	1	MPR; GradWarp; B1 Correction	CN
+sub-062S0768	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0196	4	MPR; GradWarp	CN
+sub-029S0845	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0177	4	MPR; GradWarp; B1 Correction	CN
+sub-131S0319	1	MPR; GradWarp; B1 Correction	CN
+sub-006S0731	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0525	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S1222	1	MPR; GradWarp; B1 Correction	CN
+sub-109S1014	1	MPR; GradWarp; B1 Correction	CN
+sub-137S0459	3	MPR; GradWarp	CN
+sub-051S1123	2	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	3	MPR; GradWarp; N3	CN
+sub-116S0382	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-098S0896	3	MPR; GradWarp	CN
+sub-062S0768	1	MPR; GradWarp; B1 Correction	CN
+sub-033S1086	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0066	1	MPR; GradWarp; B1 Correction	CN
+sub-126S0506	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S0070	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0459	1	MPR; GradWarp; N3	CN
+sub-007S1222	2	MPR; GradWarp; B1 Correction	CN
+sub-011S0016	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0016	1	MPR; GradWarp	CN
+sub-022S0096	1	MPR; GradWarp	CN
+sub-007S1222	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-041S0125	1	MPR; GradWarp; B1 Correction	CN
+sub-099S0352	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0295	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0005	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0059	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0886	1	MPR; GradWarp; B1 Correction	CN
+sub-003S0907	1	MPR; GradWarp; B1 Correction	CN
+sub-023S0081	4	MPR; GradWarp	CN
+sub-023S1306	1	MPR; GradWarp	CN
+sub-011S0005	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0301	3	MPR; GradWarp	CN
+sub-099S0040	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1251	3	MPR; GradWarp; B1 Correction	CN
+sub-013S1035	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-098S0896	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0074	3	MPR; GradWarp	CN
+sub-027S0118	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-021S0984	1	MPR; GradWarp	CN
+sub-137S0972	1	MPR; GradWarp	CN
+sub-002S0295	3	MPR; GradWarp; B1 Correction	CN
+sub-126S0680	3	MPR; GradWarp; B1 Correction	CN
+sub-126S0605	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0177	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-141S0810	1	MPR; GradWarp	CN
+sub-109S1014	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0555	1	MPR; GradWarp	CN
+sub-037S0303	2	MPR; GradWarp; B1 Correction	CN
+sub-021S0159	3	MPR; GradWarp; N3	CN
+sub-021S0647	1	MPR; GradWarp	CN
+sub-126S0680	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0969	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-005S0223	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0301	1	MPR; GradWarp	CN
+sub-067S0059	3	MPR; GradWarp	CN
+sub-024S0985	1	MPR; GradWarp; B1 Correction	CN
+sub-016S0538	3	MPR; GradWarp; B1 Correction	CN
+sub-941S1203	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-094S0711	3	MPR; GradWarp	CN
+sub-136S0184	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0605	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-128S0863	3	MPR; GradWarp	CN
+sub-013S1035	1	MPR; GradWarp; B1 Correction	CN
+sub-005S0553	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-014S0558	1	MPR; GradWarp; B1 Correction	CN
+sub-029S0866	3	MPR; GradWarp	CN
+sub-027S0120	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0196	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0005	3	MPR; GradWarp	CN
+sub-062S0578	3	MPR; GradWarp; B1 Correction	CN
+sub-052S0951	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0969	1	MPR; GradWarp	CN
+sub-002S0559	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0257	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-051S1123	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0526	1	MPR; GradWarp; B1 Correction	CN
+sub-041S0125	1	MPR; GradWarp	CN
+sub-126S0506	1	MPR; GradWarp	CN
+sub-127S0260	4	MPR; GradWarp	CN
+sub-082S0640	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	3	MPR; GradWarp; B1 Correction	CN
+sub-067S0059	1	MPR; GradWarp	CN
+sub-133S0493	3	MPR; GradWarp; N3	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction	CN
+sub-011S0008	3	MPR; GradWarp	CN
+sub-033S1086	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	3	MPR; GradWarp	CN
+sub-136S0196	4	MPR; GradWarp; B1 Correction	CN
+sub-116S0360	1	MPR; GradWarp; N3	CN
+sub-123S0072	1	MPR; ; N3	CN
+sub-099S0534	3	MPR; GradWarp; B1 Correction	CN
+sub-082S0640	1	MPR; GradWarp	CN
+sub-016S0538	1	MPR; GradWarp	CN
+sub-007S1206	2	MPR; GradWarp	CN
+sub-013S0575	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S1249	2	MPR; GradWarp; B1 Correction	CN
+sub-002S0685	1	MPR; GradWarp	CN
+sub-033S0734	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-005S0553	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0920	1	MPR; GradWarp	CN
+sub-006S0731	3	MPR; GradWarp; B1 Correction	CN
+sub-002S1261	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0433	3	MPR; GradWarp	CN
+sub-099S0090	1	MPR; GradWarp	CN
+sub-126S0680	3	MPR; GradWarp	CN
+sub-041S0125	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-014S0519	3	MPR; GradWarp	CN
+sub-013S0575	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-057S0643	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S0640	2	MPR; GradWarp	CN
+sub-033S1016	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S0070	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S1288	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0061	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0433	3	MPR; GradWarp; B1 Correction	CN
+sub-023S0031	4	MPR; GradWarp	CN
+sub-137S0459	3	MPR; GradWarp; N3	CN
+sub-005S0610	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0260	1	MPR; GradWarp	CN
+sub-126S0680	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S0441	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-141S1094	1	MPR; GradWarp	CN
+sub-023S0081	3	MPR; GradWarp; B1 Correction	CN
+sub-029S0824	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0405	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0156	1	MPR; GradWarp	CN
+sub-133S0525	2	MPR; GradWarp; N3	CN
+sub-007S0068	4	MPR; GradWarp; B1 Correction	CN
+sub-094S0526	1	MPR; GradWarp	CN
+sub-011S0023	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0081	1	MPR; GradWarp	CN
+sub-094S0692	1	MPR; GradWarp	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction	CN
+sub-020S1288	3	MPR; GradWarp	CN
+sub-033S0516	1	MPR; GradWarp; B1 Correction	CN
+sub-130S0969	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S1288	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-007S0068	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0130	4	MPR; GradWarp	CN
+sub-067S0056	1	MPR; GradWarp; B1 Correction	CN
+sub-033S1098	1	MPR; GradWarp; B1 Correction	CN
+sub-016S0538	4	MPR; GradWarp; B1 Correction	CN
+sub-002S0559	1	MPR; GradWarp; B1 Correction	CN
+sub-098S0172	4	MPR; GradWarp; B1 Correction	CN
+sub-130S1200	1	MPR; GradWarp	CN
+sub-005S0610	1	MPR; GradWarp	CN
+sub-131S0441	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	3	MPR; GradWarp	CN
+sub-067S0177	3	MPR; GradWarp; B1 Correction	CN
+sub-021S0159	1	MPR; GradWarp	CN
+sub-130S0232	1	MPR; GradWarp	CN
+sub-023S0058	1	MPR; GradWarp	CN
+sub-002S0295	4	MPR; GradWarp; B1 Correction	CN
+sub-051S1123	2	MPR; GradWarp	CN
+sub-067S0177	1	MPR; GradWarp	CN
+sub-067S0024	1	MPR; GradWarp	CN
+sub-099S0533	3	MPR; GradWarp	CN
+sub-023S1306	1	MPR; GradWarp; B1 Correction	CN
+sub-022S0096	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	2	MPR; GradWarp; N3; Scaled	CN
+sub-007S1206	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0232	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0048	1	MPR; GradWarp	CN
+sub-052S0951	1	MPR; GradWarp; B1 Correction	CN
+sub-073S0089	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	1	MPR; GradWarp; B1 Correction	CN
+sub-022S0014	1	MPR; GradWarp	CN
+sub-021S0159	1	MPR; GradWarp; N3	CN
+sub-131S0436	1	MPR; GradWarp	CN
+sub-027S0120	4	MPR; GradWarp	CN
+sub-130S0232	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S0951	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-128S0863	3	MPR; GradWarp; B1 Correction	CN
+sub-029S0824	3	MPR; GradWarp; B1 Correction	CN
+sub-082S0640	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-036S0576	1	MPR; GradWarp; B1 Correction	CN
+sub-002S0413	1	MPR; GradWarp; B1 Correction	CN
+sub-062S0578	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S0899	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0016	4	MPR; GradWarp; B1 Correction	CN
+sub-126S0405	2	MPR; GradWarp	CN
+sub-014S0548	1	MPR; GradWarp; B1 Correction	CN
+sub-014S0519	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0002	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-029S0845	4	MPR; GradWarp; B1 Correction	CN
+sub-041S0898	3	MPR; GradWarp; B1 Correction	CN
+sub-023S0031	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0014	4	MPR; GradWarp	CN
+sub-014S0520	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-098S0171	8	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-133S0525	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-052S1250	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0684	3	MPR; GradWarp	CN
+sub-036S0813	1	MPR; GradWarp	CN
+sub-136S0196	1	MPR; GradWarp	CN
+sub-099S0040	3	MPR; GradWarp; B1 Correction	CN
+sub-002S1261	3	MPR; GradWarp	CN
+sub-114S0166	1	MPR; GradWarp; B1 Correction	CN
+sub-052S0951	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0184	1	MPR; GradWarp; B1 Correction	CN
+sub-051S1123	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-141S0810	1	MPR; GradWarp; B1 Correction	CN
+sub-137S0459	1	MPR; GradWarp	CN
+sub-024S1063	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0488	3	MPR; GradWarp	CN
+sub-131S0436	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0031	3	MPR; GradWarp	CN
+sub-082S0761	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0260	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S0657	3	MPR; GradWarp; N3	CN
+sub-036S0672	1	MPR; GradWarp; B1 Correction	CN
+sub-051S1123	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction; N3	CN
+sub-941S1194	1	MPR; GradWarp	CN
+sub-023S0031	4	MPR; GradWarp; B1 Correction	CN
+sub-131S0123	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S0123	3	MPR; GradWarp; B1 Correction	CN
+sub-011S0021	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-114S0601	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S0363	1	MPR; GradWarp	CN
+sub-052S0951	1	MPR; GradWarp	CN
+sub-011S0021	3	MPR; GradWarp	CN
+sub-133S0493	2	MPR; GradWarp	CN
+sub-133S0525	3	MPR; GradWarp; N3; Scaled	CN
+sub-094S0692	1	MPR; GradWarp; B1 Correction	CN
+sub-130S0969	1	MPR; GradWarp; B1 Correction	CN
+sub-114S0166	3	MPR; GradWarp; B1 Correction	CN
+sub-037S0303	4	MPR; GradWarp; N3	CN
+sub-007S0070	4	MPR; GradWarp; B1 Correction	CN
+sub-099S0352	3	MPR; GradWarp; B1 Correction	CN
+sub-099S0040	1	MPR; GradWarp	CN
+sub-036S0672	1	MPR; GradWarp	CN
+sub-022S0014	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-029S0845	4	MPR; GradWarp	CN
+sub-116S0648	3	MPR; GradWarp; N3	CN
+sub-027S0120	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S1016	1	MPR; GradWarp; B1 Correction	CN
+sub-023S0061	1	MPR; GradWarp	CN
+sub-024S0985	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-099S0533	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-109S0967	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S0360	1	MPR; GradWarp; N3; Scaled	CN
+sub-033S1086	2	MPR; GradWarp; N3; Scaled	CN
+sub-024S1063	3	MPR; GradWarp; B1 Correction	CN
+sub-052S1251	1	MPR; GradWarp	CN
+sub-002S0413	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0081	3	MPR; GradWarp	CN
+sub-057S0934	3	MPR; GradWarp; B1 Correction	CN
+sub-007S1206	1	MPR; GradWarp	CN
+sub-116S0657	1	MPR; GradWarp; N3	CN
+sub-067S0056	1	MPR; GradWarp	CN
+sub-027S0074	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0120	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S1098	1	MPR; GradWarp	CN
+sub-022S0014	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-014S0548	1	MPR; GradWarp	CN
+sub-020S1288	1	MPR; GradWarp; B1 Correction	CN
+sub-052S1250	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-013S1035	2	MPR; GradWarp; N3; Scaled	CN
+sub-022S0066	3	MPR; GradWarp; B1 Correction	CN
+sub-023S0926	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0059	3	MPR; GradWarp; B1 Correction	CN
+sub-082S1256	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0555	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0488	3	MPR; GradWarp	CN
+sub-116S1249	2	MPR; GradWarp	CN
+sub-006S0681	3	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	4	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-098S0896	3	MPR; GradWarp; B1 Correction	CN
+sub-123S0298	1	MPR; ; N3	CN
+sub-024S1063	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-094S0711	1	MPR; GradWarp; B1 Correction	CN
+sub-099S0040	4	MPR; GradWarp	CN
+sub-027S0118	4	MPR; GradWarp	CN
+sub-127S0684	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	3	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-126S0405	3	MPR; GradWarp	CN
+sub-094S0711	1	MPR; GradWarp	CN
+sub-099S0040	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0295	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0031	2	MPR; GradWarp	CN
+sub-133S0525	2	MPR; GradWarp	CN
+sub-099S0352	3	MPR; GradWarp	CN
+sub-033S1086	2	MPR; GradWarp	CN
+sub-011S0021	1	MPR; GradWarp	CN
+sub-126S0506	1	MPR; GradWarp; B1 Correction	CN
+sub-033S1016	2	MPR; GradWarp; N3; Scaled	CN
+sub-027S0118	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0525	2	MPR; GradWarp; N3; Scaled	CN
+sub-022S0130	4	MPR; GradWarp; B1 Correction	CN
+sub-016S0538	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-016S0538	4	MPR; GradWarp	CN
+sub-002S0413	1	MPR; GradWarp	CN
+sub-002S1261	1	MPR; GradWarp; B1 Correction	CN
+sub-005S0553	2	MPR; GradWarp; B1 Correction	CN
+sub-027S0074	3	MPR; GradWarp; B1 Correction	CN
+sub-094S0711	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-051S1123	1	MPR; GradWarp	CN
+sub-941S1203	1	MPR; GradWarp	CN
+sub-052S1251	2	MPR; GradWarp; B1 Correction	CN
+sub-013S0502	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-006S0498	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0605	2	MPR; GradWarp; B1 Correction	CN
+sub-116S0648	1	MPR; GradWarp	CN
+sub-131S0441	1	MPR; GradWarp	CN
+sub-029S0845	3	MPR; GradWarp	CN
+sub-137S0459	3	MPR; GradWarp	CN
+sub-011S0008	3	MPR; GradWarp; B1 Correction	CN
+sub-007S1206	1	MPR; GradWarp; B1 Correction	CN
+sub-023S0031	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0177	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0605	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0525	3	MPR; GradWarp	CN
+sub-099S0352	1	MPR; GradWarp; B1 Correction	CN
+sub-073S0386	1	MPR; GradWarp	CN
+sub-067S0059	4	MPR; GradWarp; B1 Correction	CN
+sub-011S0023	1	MPR; GradWarp; B1 Correction	CN
+sub-057S0643	1	MPR; GradWarp	CN
+sub-094S0526	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S0070	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0058	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-002S0559	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-098S0896	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-005S0602	1	MPR; GradWarp	CN
+sub-007S0068	1	MPR; GradWarp; B1 Correction	CN
+sub-082S0363	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-007S1206	2	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	4	MPR; GradWarp; B1 Correction	CN
+sub-011S0022	1	MPR; GradWarp; B1 Correction	CN
+sub-033S0734	3	MPR; GradWarp	CN
+sub-114S0601	1	MPR; GradWarp	CN
+sub-099S0533	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0969	3	MPR; GradWarp	CN
+sub-098S0172	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0061	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-141S0767	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0433	3	MPR; GradWarp; B1 Correction	CN
+sub-098S0896	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0232	1	MPR; GradWarp; B1 Correction	CN
+sub-022S0096	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-127S0622	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	3	MPR; GradWarp; B1 Correction	CN
+sub-029S0866	3	MPR; GradWarp; B1 Correction	CN
+sub-023S0081	4	MPR; GradWarp; B1 Correction	CN
+sub-023S0058	2	MPR; GradWarp	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-009S0751	4	MPR; GradWarp; N3	CN
+sub-027S0118	1	MPR; GradWarp; B1 Correction	CN
+sub-002S0559	3	MPR; GradWarp	CN
+sub-133S0488	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-130S0969	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0525	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0525	3	MPR; GradWarp	CN
+sub-114S0166	3	MPR; GradWarp	CN
+sub-041S0125	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-082S1256	1	MPR; GradWarp	CN
+sub-011S0002	1	MPR; GradWarp; B1 Correction	CN
+sub-116S0648	1	MPR; GradWarp; N3	CN
+sub-022S0066	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-114S0166	1	MPR; GradWarp	CN
+sub-094S0489	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S0575	4	MPR; GradWarp	CN
+sub-007S0070	4	MPR; GradWarp	CN
+sub-116S1232	2	MPR; GradWarp; B1 Correction	CN
+sub-099S0040	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-037S0303	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0021	3	MPR; GradWarp; B1 Correction	CN
+sub-133S0525	1	MPR; GradWarp	CN
+sub-023S0081	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-003S0981	1	MPR; GradWarp	CN
+sub-027S0074	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1251	1	MPR; GradWarp; B1 Correction	CN
+sub-002S1261	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0130	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0403	6	MPR; GradWarp	CN
+sub-133S0488	3	MPR; GradWarp; B1 Correction	CN
+sub-067S0257	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0002	1	MPR; GradWarp	CN
+sub-023S0061	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-020S0097	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-023S0081	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0023	3	MPR; GradWarp	CN
+sub-020S0097	4	MPR; GradWarp	CN
+sub-133S0433	2	MPR; GradWarp; N3	CN
+sub-035S0555	1	MPR; GradWarp; B1 Correction	CN
+sub-023S0061	3	MPR; GradWarp; B1 Correction	CN
+sub-011S0021	1	MPR; GradWarp; B1 Correction	CN
+sub-007S1222	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S0883	1	MPR; GradWarp; B1 Correction	CN
+sub-020S0097	4	MPR; GradWarp; B1 Correction	CN
+sub-127S0684	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-136S0186	3	MPR; GradWarp	CN
+sub-131S0319	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-022S0096	4	MPR; GradWarp	CN
+sub-094S0526	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0186	3	MPR; GradWarp; B1 Correction	CN
+sub-062S0768	3	MPR; GradWarp	CN
+sub-023S1190	1	MPR; GradWarp; B1 Correction	CN
+sub-127S0259	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0056	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-016S0538	1	MPR; GradWarp; B1 Correction	CN
+sub-007S0068	4	MPR; GradWarp	CN
+sub-094S0489	3	MPR; GradWarp; B1 Correction	CN
+sub-022S0130	1	MPR; GradWarp; B1 Correction	CN
+sub-033S0920	2	MPR; GradWarp; N3; Scaled	CN
+sub-116S0382	1	MPR; GradWarp; N3	CN
+sub-126S0605	1	MPR; GradWarp; B1 Correction	CN
+sub-011S0021	4	MPR; GradWarp; B1 Correction	CN
+sub-023S1190	2	MPR; GradWarp	CN
+sub-027S0118	3	MPR; GradWarp	CN
+sub-131S0123	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-003S0931	1	MPR; GradWarp	CN
+sub-035S0156	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-020S0883	1	MPR; GradWarp; B1 Correction	CN
+sub-021S0337	1	MPR; GradWarp	CN
+sub-033S1086	6	MPR; GradWarp; N3; Scaled	CN
+sub-094S0711	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-014S0558	1	MPR; GradWarp	CN
+sub-130S0886	1	MPR; GradWarp	CN
+sub-002S0295	4	MPR; GradWarp	CN
+sub-094S0489	1	MPR; GradWarp; B1 Correction	CN
+sub-005S0602	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-014S0520	1	MPR; GradWarp	CN
+sub-020S0097	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-062S0768	1	MPR; GradWarp	CN
+sub-067S0257	1	MPR; GradWarp	CN
+sub-127S0622	1	MPR; GradWarp	CN
+sub-014S0520	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0488	2	MPR; GradWarp	CN
+sub-023S0058	2	MPR; GradWarp; B1 Correction	CN
+sub-094S0489	3	MPR; GradWarp	CN
+sub-051S1123	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1250	2	MPR; GradWarp; B1 Correction	CN
+sub-067S0056	4	MPR; GradWarp; B1 Correction	CN
+sub-133S0525	3	MPR; GradWarp; N3	CN
+sub-005S0610	1	MPR; GradWarp; B1 Correction	CN
+sub-067S0177	1	MPR; GradWarp; B1 Correction	CN
+sub-067S0177	4	MPR; GradWarp	CN
+sub-133S0493	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0403	3	MPR; GradWarp	CN
+sub-126S0405	1	MPR; GradWarp	CN
+sub-002S0413	4	MPR; GradWarp; B1 Correction	CN
+sub-127S0260	4	MPR; GradWarp	CN
+sub-116S0382	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S0068	3	MPR; GradWarp	CN
+sub-052S1250	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S1301	1	MPR; GradWarp	CN
+sub-099S0090	3	MPR; GradWarp	CN
+sub-005S0602	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S1222	2	MPR; GradWarp	CN
+sub-141S0810	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-002S0295	1	MPR; GradWarp	CN
+sub-002S1280	1	MPR; GradWarp	CN
+sub-067S0257	1	MPR; GradWarp; B1 Correction	CN
+sub-067S0059	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0920	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1251	3	MPR; GradWarp	CN
+sub-052S1251	2	MPR; GradWarp	CN
+sub-073S0311	1	MPR; GradWarp; B1 Correction	CN
+sub-941S1194	1	MPR; GradWarp; B1 Correction	CN
+sub-020S0883	1	MPR; GradWarp	CN
+sub-136S0196	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-133S0433	1	MPR; GradWarp; B1 Correction	CN
+sub-005S0602	2	MPR; GradWarp; B1 Correction	CN
+sub-021S0647	1	MPR; GradWarp; N3	CN
+sub-014S0519	3	MPR; GradWarp; B1 Correction	CN
+sub-136S0186	1	MPR; GradWarp	CN
+sub-027S0074	4	MPR; GradWarp	CN
+sub-067S0024	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-114S0416	1	MPR; GradWarp	CN
+sub-024S1063	3	MPR; GradWarp	CN
+sub-016S0538	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-109S0967	1	MPR; GradWarp; B1 Correction	CN
+sub-041S0898	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-057S0934	1	MPR; GradWarp; B1 Correction	CN
+sub-126S0405	1	MPR; GradWarp; B1 Correction	CN
+sub-033S1086	6	MPR; GradWarp	CN
+sub-941S1203	1	MPR; GradWarp; B1 Correction	CN
+sub-002S0295	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	2	MPR; GradWarp; B1 Correction; N3	CN
+sub-007S0070	3	MPR; GradWarp; B1 Correction	CN
+sub-036S0576	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-013S0575	4	MPR; GradWarp; B1 Correction	CN
+sub-033S1016	2	MPR; GradWarp; N3	CN
+sub-014S0548	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-137S0301	3	MPR; GradWarp; N3	CN
+sub-007S0070	1	MPR; GradWarp; B1 Correction	CN
+sub-131S0436	1	MPR; GradWarp; B1 Correction	CN
+sub-013S1276	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-011S0021	4	MPR; GradWarp	CN
+sub-023S0031	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-126S0680	1	MPR; GradWarp	CN
+sub-020S0899	1	MPR; GradWarp; B1 Correction	CN
+sub-082S0761	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-027S0120	1	MPR; GradWarp; B1 Correction	CN
+sub-022S0096	4	MPR; GradWarp; B1 Correction	CN
+sub-126S0605	3	MPR; GradWarp	CN
+sub-022S0066	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0516	3	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	1	MPR; GradWarp	CN
+sub-024S1063	1	MPR; GradWarp	CN
+sub-027S0403	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-141S1094	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S0436	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-033S0923	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0555	1	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-003S0907	1	MPR; GradWarp	CN
+sub-094S0526	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-116S1249	1	MPR; GradWarp	CN
+sub-131S0319	3	MPR; GradWarp	CN
+sub-011S0016	1	MPR; GradWarp; B1 Correction	CN
+sub-131S0123	1	MPR; GradWarp; B1 Correction	CN
+sub-133S0493	2	MPR; GradWarp; N3	CN
+sub-099S0533	1	MPR; GradWarp; B1 Correction	CN
+sub-052S0951	3	MPR; GradWarp	CN
+sub-013S1035	1	MPR; GradWarp	CN
+sub-011S0005	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-027S0403	1	MPR; GradWarp; B1 Correction	CN
+sub-027S0118	4	MPR; GradWarp; B1 Correction	CN
+sub-131S0319	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0023	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-041S0898	3	MPR; GradWarp	CN
+sub-041S0125	3	MPR; GradWarp; B1 Correction	CN
+sub-027S0118	3	MPR; GradWarp; B1 Correction	CN
+sub-027S0403	6	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S0734	3	MPR; GradWarp; B1 Correction	CN
+sub-007S0068	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-035S0555	1	MPR; GradWarp; B1 Correction	CN
+sub-114S0416	1	MPR; GradWarp; B1 Correction	CN
+sub-033S0516	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0008	1	MPR; GradWarp; B1 Correction	CN
+sub-007S0068	1	MPR; GradWarp	CN
+sub-027S0403	3	MPR; GradWarp	CN
+sub-007S1206	2	MPR; GradWarp; B1 Correction; N3; Scaled	CN
+sub-027S0403	6	MPR; GradWarp	CN
+sub-094S0489	1	MPR; GradWarp	CN
+sub-033S0920	2	MPR; GradWarp; N3	CN
+sub-011S0016	3	MPR; GradWarp; B1 Correction	CN
+sub-020S1288	2	MPR; GradWarp	CN
+sub-127S0684	3	MPR; GradWarp; B1 Correction	CN
+sub-007S1222	1	MPR; GradWarp	CN
+sub-035S0555	1	MPR; GradWarp	CN
+sub-023S0061	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-114S0166	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-037S0303	2	MPR; GradWarp	CN
+sub-941S1202	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-131S0123	3	MPR; GradWarp	CN
+sub-130S1200	1	MPR; GradWarp; B1 Correction; N3	CN
+sub-011S0016	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-941S1197	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-067S0177	4	MPR; GradWarp; B1 Correction; N3	CN
+sub-052S1251	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-033S1086	2	MPR; GradWarp; N3	CN
+sub-062S0768	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-057S0934	1	MPR; GradWarp	CN
+sub-029S0866	3	MPR; GradWarp; B1 Correction; N3	CN
+sub-073S0311	1	MPR; GradWarp; B1 Correction; N3	CN
